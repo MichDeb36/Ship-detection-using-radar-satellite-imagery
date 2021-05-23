@@ -1,6 +1,7 @@
-# Ship-detection-using-radar-satellite-imagery
-Celem projektu jest opracowanie i realizacja systemu lokalizującego statki w obrębie wód Danii z wykorzystaniem radarowych zdjęć satelitarnych oraz stworzenie mapy z wykrytymi statkami.</br>
-<b> W realizacji projektu wykorzystano: </b></br>
-Bibliotekę ImageAI wykorzystującą Tensorflow, OpenCV, Keras.</br>
-Bibliotekę gdal. </br>
-Algorytm YOLOv3.</br>
+# Ship detection using radar satellite imagery
+The project is to develop and implement a system for locating ships within Danish waters using radar satellite images and creating a map with detected ships.</br>
+<b> Were used in the implementation of the project: </b></br>
+Library ImageAI using Tensorflow, OpenCV, Keras. </br>
+Library gdal. </br>
+Algorithm YOLO</br>
+Authors: Michał Dębiński, Maciej Pławski, Karol Kwiatek  
