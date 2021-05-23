@@ -4,4 +4,4 @@ The project is to develop and implement a system for locating ships within Danis
 Library ImageAI using Tensorflow, OpenCV, Keras. </br>
 Library gdal. </br>
 Algorithm YOLO</br>
-Authors: Michał Dębiński, Maciej Pławski, Karol Kwiatek  
+<b>Authors: Michał Dębiński, Maciej Pławski, Karol Kwiatek  </b>
